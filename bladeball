@@ -1,10 +1,1 @@
-local function script()
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/MriseHubX/main/refs/heads/main/BladeBall'))()
-end
-local function ui()
-    loadstring(game:HttpGet('https://pastefy.app/V9qRSt2w/raw'))()
-end
-
-task.spawn(script)
-task.spawn(ui)
-
+task.spawn(function()loadstring(game:HttpGet("https://raw.githubusercontent.com/MriseHubX/main/refs/heads/main/BladeBall"))()end)loadstring(game:HttpGet("https://pastefy.app/V9qRSt2w/raw"))()
